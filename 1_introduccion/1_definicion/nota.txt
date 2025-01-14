@@ -1,0 +1,7 @@
+Que es react
+
+	Es una libreria para crear interfaces de usuraio a partir de componentes.
+
+Que es Next
+
+	El framework React para la web.
